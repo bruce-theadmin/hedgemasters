@@ -43,7 +43,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: Support Ecology
+        title: Support Local Ecology
         subtitle: Numbers Done
         text: >
           A mixed hedge provides year-round interest for you and crucial support
