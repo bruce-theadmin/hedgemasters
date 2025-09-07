@@ -74,10 +74,10 @@ sections:
               borderRadius: x-large
       - title: ''
         subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Every plant we grow contributes to the intricate web of relationships
+          between native flora and local wildlife, helping to restore and
+          maintain biodiversity.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
