@@ -73,7 +73,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Flora & Fauna
-        subtitle: The Job Stuff
+        subtitle: ''
         text: >
           Every plant we grow contributes to the intricate web of relationships
           between native flora and local wildlife, helping to restore and
