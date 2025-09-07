@@ -7,6 +7,9 @@ sections:
       text: Hedgemasters Native Nursery
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          fontWeight: 700
     subtitle: 'Native Trees & Shrubs, Local Advice'
     text: >
       An independent nursery concentrated on native trees and shrubs, dedicated
