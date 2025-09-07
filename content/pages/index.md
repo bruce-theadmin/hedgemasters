@@ -16,15 +16,6 @@ sections:
       to promoting wildlife, especially butterflies and bees, while
       strengthening local eco-corridors and biodiversity.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
       - label: See Tutorials
         altText: ''
         url: /
