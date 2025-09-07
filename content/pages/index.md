@@ -15,16 +15,7 @@ sections:
       An independent nursery concentrated on native trees and shrubs, dedicated
       to promoting wildlife, especially butterflies and bees, while
       strengthening local eco-corridors and biodiversity.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/Hedgemasters-Logo-transparent.png
       altText: Unblock your team boost your time to production preview
