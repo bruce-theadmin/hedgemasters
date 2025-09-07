@@ -45,10 +45,11 @@ sections:
       - type: FeaturedItem
         title: Support Ecology
         subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          A mixed hedge provides year-round interest for you and crucial support
+          for nature. Our native trees and shrubs create vital connections in
+          local eco-corridors, supporting butterflies, bees, and countless other
+          species.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
