@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hedgemasters
 slug: /
 sections:
   - type: GenericSection
