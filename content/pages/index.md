@@ -10,7 +10,6 @@ sections:
       styles:
         self:
           fontWeight: 700
-          fontStyle: italic
     subtitle: 'Native Trees & Shrubs, Local Advice'
     text: >
       An independent nursery concentrated on native trees and shrubs, dedicated
