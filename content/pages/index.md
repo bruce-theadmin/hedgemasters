@@ -9,9 +9,9 @@ sections:
       type: TitleBlock
     subtitle: 'Native Trees & Shrubs, Local Advice'
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      An independent nursery concentrated on native trees and shrubs, dedicated
+      to promoting wildlife, especially butterflies and bees, while
+      strengthening local eco-corridors and biodiversity.
     actions:
       - label: Get started
         altText: ''
