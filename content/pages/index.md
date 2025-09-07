@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Hedgemasters Native Trees & Shrubs
+      text: Hedgemasters Native Nursery
       color: text-dark
       type: TitleBlock
     subtitle: Nurturing Native Plants for Thriving Ecosystems
