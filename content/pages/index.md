@@ -44,7 +44,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Support Local Ecology
-        subtitle: Numbers Done
+        subtitle: ''
         text: >
           A mixed hedge provides year-round interest for you and crucial support
           for nature. Our native trees and shrubs create vital connections in
