@@ -99,10 +99,14 @@ sections:
         type: FeaturedItem
       - title: Our Commitment
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We offer free advice and can supply a single tree, a complete hedge,
+          or even a small woodland - all at trade prices to everyone. All our
+          stock is hardy and grown locally, adapted to our climate.
+
+
+          Whether you need formal hedges like Copper Beech, Oak, or Laurel, we
+          provide both supply-only and supply-and-plant services.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
