@@ -72,7 +72,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: ''
+      - title: Flora & Fauna
         subtitle: The Job Stuff
         text: >
           Every plant we grow contributes to the intricate web of relationships
